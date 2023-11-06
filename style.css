@@ -3,7 +3,7 @@ body {
     color: #FFFFFF;
     font-size: 120%;
     background-color: #212123;
-    font-family: "Comic Sans";
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
 
 .wrap {
@@ -14,7 +14,7 @@ body {
 
 .icon {
     border-radius:20px;
-    display:inline-block;
+    display: inline-block;
     width: 40px;
     height: 40px;
 }
